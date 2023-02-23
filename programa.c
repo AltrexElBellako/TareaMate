@@ -64,7 +64,7 @@ int main() {
     }
 
     // Pregunta 8
-    printf("8. ¿Dejarías algún pasatiempo por estar el o la chica que te gusta?\n");
+    printf("8. ¿Dejarías algún pasatiempo por estar con el o la chica que te gusta?\n");
     printf("a) Completamente\nb) No, prefiero hacer lo que me gusta\nc) Lo podría considerar\n");
     scanf(" %c", &respuesta);
     if (respuesta == 'b') {

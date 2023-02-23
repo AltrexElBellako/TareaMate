@@ -5,7 +5,7 @@ int main() {
   int puntos = 0;
     char respuesta;
   
-    printf("Cuestionario para saber si eres SIMP\nResponde las preguntas para saber si realmente puedes tener novi@\n"); 
+    printf("Cuestionario para saber si eres SIMP\nResponde las preguntas para saber si realmente podrías tener novi@\n"); 
 
     // Pregunta 1
     printf("1. ¿Valoras tu tiempo y el tiempo de los demás?\n");
